@@ -1,0 +1,8 @@
+﻿@article{
+   author = {Collins, ED and Campbell, DO and Felker, LK},
+   title = {Measurement of achievable plutonium decontamination from gallium by means of PUREX solvent extraction},
+   journal = {ORNL/TM-1999/312, Oak Ridge National Laboratory},
+   year = {2000},
+   type = {Journal Article}
+}
+

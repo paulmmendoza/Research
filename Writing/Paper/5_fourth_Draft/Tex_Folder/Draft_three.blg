@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: H:\School\Research\Writing\Paper\4_Third_Draft\Tex_Folder\Draft_three.aux
+The style file: elsarticle-num.bst
+Database file #1: mybibfile.bib
+I was expecting a `,' or a `}'---line 174 of file mybibfile.bib
+ :    author 
+ :           = {Czack, Gerhard and Czack, Gerhard and Haase, Vera and Kirschstein, Gerhard},
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 205 of file mybibfile.bib
+ :    author 
+ :           = {Gupta, K. K. and Singh, SumanKumar and Inamdar, G. A. and Madhusudan, A. and Tripathi, S. C.},
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 260 of file mybibfile.bib
+ :    author 
+ :           = {McHenry, RE and Posey, JC and Baker, PS},
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 407 of file mybibfile.bib
+ :    author 
+ :           = {Swift, W.},
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 448 of file mybibfile.bib
+ :    author 
+ :           = {Weaver, B.},
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 521 of file mybibfile.bib
+ : 
+ : @misc{mal,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 527 of file mybibfile.bib
+ : 
+ : @misc{fish,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 533 of file mybibfile.bib
+ : 
+ : @misc{strem,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 539 of file mybibfile.bib
+ : 
+ : @phdthesis{swinney,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You're missing a field name---line 544 of file mybibfile.bib
+ :     year     = {2016}, 
+ :                        %other attributes omitted
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 553 of file mybibfile.bib
+ : 
+ : @misc{lynx,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 560 of file mybibfile.bib
+ : 
+ : @article{puIII,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+(There were 12 error messages)

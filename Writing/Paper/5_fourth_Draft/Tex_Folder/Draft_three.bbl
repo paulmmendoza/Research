@@ -1,0 +1,211 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{chirayath2015}
+S.~S. Chirayath, J.~M. Osborn, T.~M. Coles,
+  \href{http://lib-ezproxy.tamu.edu:2048/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=tsh&AN=101449802&site=eds-live}{Trace
+  fission product ratios for nuclear forensics attribution of weapons-grade
+  plutonium from fast and thermal reactors}, Science & Global Security 23~(1)
+  (2015) 48--67, science & Global Security Authors: Chirayath, Sunil S. 1
+  Osborn, Jeremy M. 1 Coles, Taylor M. 1; Affiliations: 1: Nuclear Security
+  Science and Policy Institute, Texas A&M University, College Station, TX, USA;
+  Subject: GEOTHERMAL reactors; Subject: FISSION products; Subject: RADIOACTIVE
+  substances; Subject: NUCLEAR fission; Subject: PLUTONIUM; Subject: TERRORISM;
+  Number of Pages: 20p.
+\newblock \href {http://dx.doi.org/10.1080/08929882.2015.996079}
+  {\path{doi:10.1080/08929882.2015.996079}}.
+\newline\urlprefix\url{http://lib-ezproxy.tamu.edu:2048/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=tsh&AN=101449802&site=eds-live}
+
+\bibitem{reas1957}
+W.~Reas,
+  \href{http://lib-ezproxy.tamu.edu:2048/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=edsstc&AN=4341712&site=eds-live}{The
+  purex process-a solvent extraction reprocessing method for irradiated
+  uranium}, accession Number: 4341712; Publication Type: Report; Language:
+  English; Publication Date: 19570401 (1957).
+\newblock \href {http://dx.doi.org/10.2172/4341712}
+  {\path{doi:10.2172/4341712}}.
+\newline\urlprefix\url{http://lib-ezproxy.tamu.edu:2048/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=edsstc&AN=4341712&site=eds-live}
+
+\bibitem{stoller1961}
+S.~Stoller, R.~Richards, Reactor handbook, volume ii, fuel reprocessing, Inter
+  science Publishers, Inc., New York.
+
+\bibitem{benedict1982}
+M.~Benedict, H.~Levi, T.~Pigford, Nuclear chemical engineering, Nucl. Sci. Eng.
+  82~(4).
+
+\bibitem{gresky1950}
+W.~B.~L. Gresky, A.~T., Purex process laboratory development, Oak Ridge
+  National Laboratory USAEC Report ORNL-717.
+
+\bibitem{arker1954}
+A.~J. Arker, Terminal report on purex program in kapl separations pilot plant,
+  Knolls Atomic Power Laboratory.
+
+\bibitem{chandler1954}
+D.~O.~D. Chandler, J.~M., Terminal report for the ornl pilot plant
+  investigation of the purex process, Oak Ridge National Laboratory USAEC
+  Report ORNL -1519.
+
+\bibitem{prout1957}
+W.~Prout,
+  \href{http://lib-ezproxy.tamu.edu:2048/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=edsstc&AN=4317763&site=eds-live}{Equilibrium
+  distribution ddata for purex and similar extraction processes}, accession
+  Number: 4317763; Publication Type: Report; Language: English; Publication
+  Date: 19570701 (1957).
+\newblock \href {http://dx.doi.org/10.2172/4317763}
+  {\path{doi:10.2172/4317763}}.
+\newline\urlprefix\url{http://lib-ezproxy.tamu.edu:2048/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=edsstc&AN=4317763&site=eds-live}
+
+\bibitem{alcockbed1957}
+K.~Alcock, F.~Bedford, W.~Hardwick, H.~McKay, Tri-n-butyl phosphate as an
+  extracting solvent for inorganic nitrates—i: Zirconium nitrate, Journal of
+  Inorganic and Nuclear Chemistry 4~(2) (1957) 100--105.
+
+\bibitem{best1957}
+G.~Best, H.~McKay, P.~Woodgate, Tri-n-butyl phosphate as an extracting solvent
+  for inorganic nitrates—iii the plutonium nitrates, Journal of Inorganic and
+  Nuclear Chemistry 4~(5) (1957) 315--320.
+
+\bibitem{hesford1957}
+E.~Hesford, H.~McKay, D.~Scargill, Tri-n-butyl phosphate as an extracting
+  solvent for inorganic nitrates—iv thorium nitrate, Journal of Inorganic and
+  Nuclear Chemistry 4~(5) (1957) 321--325.
+
+\bibitem{scargil1957}
+D.~Scargill, K.~Alcock, J.~Fletcher, E.~Hesford, H.~McKay, Tri-n-butyl
+  phosphate as an extracting solvent for inorganic nitrates—ii yttrium and
+  the lower lanthanide nitrates, Journal of Inorganic and Nuclear Chemistry
+  4~(5) (1957) 304--314.
+
+\bibitem{alcock1958}
+K.~Alcock, G.~Best, E.~Hesford, H.~McKay, Tri-n-butyl phosphate as an
+  extracting solvent for inorganic nitrates—v: Further results for the
+  tetra-and hexavalent actinide nitrates, Journal of Inorganic and Nuclear
+  Chemistry 6~(4) (1958) 328--333.
+
+\bibitem{best1959}
+G.~Best, E.~Hesford, H.~McKay, Tri-n-butyl phosphate as an extracting agent for
+  inorganic nitrates—vii: The trivalent actinide nitrates, Journal of
+  Inorganic and Nuclear Chemistry 12~(1) (1959) 136--140.
+
+\bibitem{hesford1959}
+E.~Hesford, E.~Jackson, H.~McKay, Tri-n-butyl phosphate as an extracting agent
+  for inorganic nitrates—vi further results for the rare earth nitrates,
+  Journal of Inorganic and Nuclear Chemistry 9~(3-4) (1959) 279--289.
+
+\bibitem{colburn1939}
+A.~P. Colburn,
+  \href{http://lib-ezproxy.tamu.edu:2048/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=ast&AN=514845228&site=eds-live}{Simplified
+  calculation of diffusional processes}, general consideration of two-film
+  resistances 35 (1939) 211--236, transactions of the American Institute of
+  Chemical Engineers AuthorsColburn, A. P.; Physical Description:Bibliography;
+  Subject: CHEMICAL engineering -- Tables, calculations, etc; Subject:
+  Diffusion; Subject: Distillation; Subject: Extraction processes; Subject:
+  Heat transmission; Subject: Absorption; Number of Pages: 26p; Record Type:
+  Article.
+\newline\urlprefix\url{http://lib-ezproxy.tamu.edu:2048/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=ast&AN=514845228&site=eds-live}
+
+\bibitem{sherwood1952}
+T.~K. Sherwood, R.~L. Pigford,
+  \href{http://lib-ezproxy.tamu.edu:2048/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat03318a&AN=tamug.107458&site=eds-live}{Absorption
+  and extraction. 2d ed}, Chemical engineering series, New York : McGraw-Hill,
+  1952. 2d ed., 1952, evans/Annex TP156.A3 S5 1952 Accession Number:
+  tamug.107458; Other Notes: Bibliography: pages 455-469.; Publication Type:
+  Book; Physical Description: 478 pages; Language: English; LCCN: 51012644;
+  OCLC: 00567332.
+\newline\urlprefix\url{http://lib-ezproxy.tamu.edu:2048/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat03318a&AN=tamug.107458&site=eds-live}
+
+\bibitem{long1967}
+J.~T. Long,
+  \href{http://lib-ezproxy.tamu.edu:2048/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat03318a&AN=tamug.711551&site=eds-live}{Engineering
+  for nuclear fuel reprocessing}, New York : Gordon and Breach Science
+  Publishers, [1967], 1967, evans/Annex TK9360 .L65 Accession Number:
+  tamug.711551; Other Notes: "Prepared under the auspices of Division of
+  Technical Information, United States Atomic Energy Commission."; Includes
+  bibliographies.; Publication Type: Book; Physical Description: ix, 1023 pages
+  : illustrations ; 24 cm.; Language: English; LCCN: 66028071; OCLC: 00783040.
+\newline\urlprefix\url{http://lib-ezproxy.tamu.edu:2048/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat03318a&AN=tamug.711551&site=eds-live}
+
+\bibitem{perry2008}
+R.~H. Perry, D.~W. Green,
+  \href{http://lib-ezproxy.tamu.edu:2048/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat03318a&AN=tamug.3756052&site=eds-live
+  http://lib-ezproxy.tamu.edu:2048/login?url=http://site.ebrary.com/lib/tamu/docDetail.action?docID=10211725}{Perry's
+  chemical engineers' handbook. 8th ed}, New York : McGraw-Hill, [2008] 8th ed.
+  / prepared by a staff of specialists under the editorial direction of
+  editor-in-chief, Don W. Green, late editor, Robert H. Perry., 2008, available
+  Online TP151 .P45 2008eb Accession Number: tamug.3756052; Corporate Authors:
+  ebrary, Inc.; Other Notes: Electronic resource.; Includes bibliographical
+  references and index.; Electronic reproduction. Palo Alto, Calif. : ebrary,
+  2009. Available via World Wide Web. Access may be limited to ebrary
+  affiliated libraries.; Publication Type: Book, eBook; Physical Description: 1
+  volume (various pagings) : illustrations ; 27 cm.; Language: English.
+\newline\urlprefix\url{http://lib-ezproxy.tamu.edu:2048/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=cat03318a&AN=tamug.3756052&site=eds-live
+  http://lib-ezproxy.tamu.edu:2048/login?url=http://site.ebrary.com/lib/tamu/docDetail.action?docID=10211725}
+
+\bibitem{collins2000}
+E.~Collins, D.~Campbell, L.~Felker, Measurement of achievable plutonium
+  decontamination from gallium by means of purex solvent extraction,
+  ORNL/TM-1999/312, Oak Ridge National Laboratory.
+
+\bibitem{michael2010}
+F.~S. Michael, D.~L. Jack, Nuclear fuel reprocessing - inl/ext-10-17753 (2010).
+\newblock \href {http://dx.doi.org/10.2172/974763} {\path{doi:10.2172/974763}}.
+
+\bibitem{swinney}
+M.~Swinney, Experimental and computational assessment of trace nuclide ratios
+  in weapons grade plutonium for nuclear forensics analysis, Ph.D. thesis,
+  Texas A&M University (2016).
+
+\bibitem{sciencelab}
+{Chemicals and Laboratory Equipment}, howpublished =
+  {\url{http://www.sciencelab.com/}}, note = {Accessed: 2016-02-15}.
+
+\bibitem{mal}
+{Mallinckrodt Pharmaceuticals}, howpublished =
+  {\url{http://www.mallinckrodt.com//}}, note = {Accessed: 2016-02-15}.
+
+\bibitem{fish}
+{Fisher Scientific}, howpublished =
+  {\url{https://www.fishersci.com/us/en/home.html}}, note = {Accessed:
+  2016-02-15}.
+
+\bibitem{strem}
+{Strem Chemicals Incorporation}, howpublished = {\url{http://www.strem.com/}},
+  note = {Accessed: 2016-02-15}.
+
+\bibitem{hpge}
+{Standard Electrode Coaxial Ge Detectors}, howpublished =
+  {\url{http://www.canberra.com/products/detectors/pdf/sege-detectors-c40021.pdf}},
+  note = {Accessed: 2016-02-15}.
+
+\bibitem{lynx}
+{Lynx Digital Signal Analyzer}, howpublished =
+  {\url{http://www.canberra.com/products/radiochemistry_lab/pdf/lynx-ss-c38658.pdf}},
+  note = {Accessed: 2016-02-15}.
+
+\bibitem{version19952}
+G.-P. Version, 2.1 users manual, volumes 1 and 2, Canberra Nuclear.
+
+\bibitem{MS}
+{Perkin Elmer Inc. and NexION 300 ICP-MS Instruments} kernel description,
+  \url{http://www.perkinelmer.com/Catalog/Family/ID/NexION}, accessed:
+  2015-09-30.
+
+\bibitem{Feynman1963118}
+R.~Feynman, F.~{Vernon Jr.}, The theory of a general quantum system interacting
+  with a linear dissipative system, Annals of Physics 24 (1963) 118--173.
+\newblock \href {http://dx.doi.org/10.1016/0003-4916(63)90068-X}
+  {\path{doi:10.1016/0003-4916(63)90068-X}}.
+
+\bibitem{Dirac1953888}
+P.~Dirac, The lorentz transformation and absolute time, Physica 19~(1-–12)
+  (1953) 888--896.
+\newblock \href {http://dx.doi.org/10.1016/S0031-8914(53)80099-6}
+  {\path{doi:10.1016/S0031-8914(53)80099-6}}.
+
+\end{thebibliography}
